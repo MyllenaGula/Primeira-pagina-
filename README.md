@@ -4,7 +4,7 @@
 <h2>**áreas afins**</h2>
 <p>ARTE 🎶</p>
 <p>FILOSOFIA ❔</p>
-<p></p>biologia 🐳🍄</p>
+<p>biologia 🐳🍄</p>
 
 <h2>**HOBBIES**</h2>
 <p>TOCAR VIOLÃO 🎻🎶
