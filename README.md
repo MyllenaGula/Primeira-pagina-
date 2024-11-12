@@ -2,9 +2,9 @@
 <p>##desenvolvido por
 ###myllena gula :blush:</p>
 <h2>**áreas afins**</h2>
-<p>ARTE 🎶 
-FILOSOFIA ❔
-biologia 🐳🍄</p>
+<p>ARTE 🎶</p>
+<p>FILOSOFIA ❔</p>
+<p></p>biologia 🐳🍄</p>
 
 <h2>**HOBBIES**</h2>
 <p>TOCAR VIOLÃO 🎻🎶
